@@ -265,7 +265,11 @@ nav{
 .image img{
     width: 380px;
     height: 380px;
-    object-fit: cover;
+}
+
+.project-box img{
+    width: 100%;
+    height: auto;
 }
 @keyframes imgFloat {
     50%{
